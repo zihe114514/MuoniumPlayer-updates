@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "_comment": "MuoniumPlayer 更新清单。客户端每 6 小时最多拉一次；latest 高于本地版本时在主菜单弹一次提示。改 latest 即可推送更新提醒，无需改 mod。",
+  "channels": {
+    "1.20.1-fabric": {
+      "latest": "1.3.0",
+      "critical": false,
+      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
+      "notes": ""
+    },
+    "1.20.1-forge": {
+      "latest": "1.3.0",
+      "critical": false,
+      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
+      "notes": ""
+    },
+    "1.21.1-fabric": {
+      "latest": "1.3.0",
+      "critical": false,
+      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
+      "notes": ""
+    },
+    "1.21.1-neoforge": {
+      "latest": "1.3.0",
+      "critical": false,
+      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
+      "notes": ""
+    },
+    "1.21.11-fabric": {
+      "latest": "1.3.0",
+      "critical": false,
+      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
+      "notes": ""
+    },
+    "1.21.11-neoforge": {
+      "latest": "1.3.0",
+      "critical": false,
+      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
+      "notes": ""
+    },
+    "26.2-fabric": {
+      "latest": "1.3.0",
+      "critical": false,
+      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
+      "notes": ""
+    },
+    "26.2-neoforge": {
+      "latest": "1.3.0",
+      "critical": false,
+      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
+      "notes": ""
+    }
+  },
+  "fallback": {
+    "latest": "1.3.0",
+    "critical": false,
+    "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
+    "notes": ""
+  }
+}
