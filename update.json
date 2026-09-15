@@ -3,58 +3,58 @@
   "_comment": "MuoniumPlayer 更新清单。客户端每 6 小时最多拉一次；latest 高于本地版本时在主菜单弹一次提示。改 latest 即可推送更新提醒，无需改 mod。",
   "channels": {
     "1.20.1-fabric": {
-      "latest": "1.4.13",
+      "latest": "1.4.12",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": ""
+      "notes": "酷狗音乐全线支持"
     },
     "1.20.1-forge": {
-      "latest": "1.4.11",
+      "latest": "1.4.12",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": ""
+      "notes": "酷狗音乐全线支持"
     },
     "1.21.1-fabric": {
-      "latest": "1.4.11",
+      "latest": "1.4.12",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": ""
+      "notes": "酷狗音乐全线支持"
     },
     "1.21.1-neoforge": {
       "latest": "1.4.11",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": ""
+      "notes": "酷狗音乐全线支持"
     },
     "1.21.11-fabric": {
-      "latest": "1.4.14",
+      "latest": "1.4.12",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "喵喵喵"
+      "notes": "酷狗音乐全线支持喵喵喵"
     },
     "1.21.11-neoforge": {
-      "latest": "1.4.11",
+      "latest": "1.4.12",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": ""
+      "notes": "酷狗音乐全线支持"
     },
     "26.2-fabric": {
-      "latest": "1.4.11",
+      "latest": "1.4.12",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
       "notes": ""
     },
     "26.2-neoforge": {
-      "latest": "1.4.11",
+      "latest": "1.4.12",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": ""
+      "notes": "酷狗音乐全线支持"
     }
   },
   "fallback": {
-    "latest": "1.4.11",
+    "latest": "1.4.12",
     "critical": false,
     "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-    "notes": ""
+    "notes": "酷狗音乐全线支持"
   }
 }
