@@ -3,7 +3,7 @@
   "_comment": "MuoniumPlayer 更新清单。客户端每 6 小时最多拉一次；latest 高于本地版本时在主菜单弹一次提示。改 latest 即可推送更新提醒，无需改 mod。",
   "channels": {
     "1.20.1-fabric": {
-      "latest": "1.4.11",
+      "latest": "1.4.12",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
       "notes": ""
