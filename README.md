@@ -21,13 +21,13 @@
   "channels": {
     // 键是 "<Minecraft 版本>-<加载器>"，加载器取 fabric / forge / neoforge
     "1.21.11-neoforge": {
-      "latest": "1.4.0",              // 必填。比本地版本新才弹提示
+      "latest": "1.5.0",              // 必填。比本地版本新才弹提示
       "critical": false,              // true 时不给「跳过此版本」
       "page": "https://github.com/...", // 下载页。只允许 https 且域名在白名单里
       "notes": "这一版改了什么"        // 可空
     }
   },
-  "fallback": { "latest": "1.3.0" }   // 找不到对应 channel 时用这个
+  "fallback": { "latest": "1.5.0" }   // 找不到对应 channel 时用这个
 }
 ```
 
