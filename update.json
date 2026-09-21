@@ -1,60 +1,60 @@
 {
   "schema": 1,
-  "_comment": "MuoniumPlayer 更新清单。客户端每 6 小时最多拉一次；latest 高于本地版本时在主菜单弹一次提示。改 latest 即可推送更新提醒，无需改 mod。",
+  "_comment": "MuoniumPlayer 更新清单。客户端每 30 分钟最多拉一次；latest 高于本地版本时在主菜单弹一次提示。改 latest 即可推送更新提醒，无需改 mod。",
   "channels": {
     "1.20.1-fabric": {
-      "latest": "1.5.0",
+      "latest": "1.6.0",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "修复酷狗音乐播放歌曲与所点歌曲不一致"
+      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
     },
     "1.20.1-forge": {
-      "latest": "1.5.0",
+      "latest": "1.6.0",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "修复酷狗音乐播放歌曲与所点歌曲不一致"
+      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
     },
     "1.21.1-fabric": {
-      "latest": "1.5.0",
+      "latest": "1.6.0",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "修复酷狗音乐播放歌曲与所点歌曲不一致"
+      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
     },
     "1.21.1-neoforge": {
-      "latest": "1.5.0",
+      "latest": "1.6.0",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "修复酷狗音乐播放歌曲与所点歌曲不一致"
+      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
     },
     "1.21.11-fabric": {
-      "latest": "1.5.0",
+      "latest": "1.6.0",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "修复酷狗音乐播放歌曲与所点歌曲不一致"
+      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
     },
     "1.21.11-neoforge": {
-      "latest": "1.5.0",
+      "latest": "1.6.0",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "修复酷狗音乐播放歌曲与所点歌曲不一致"
+      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
     },
     "26.2-fabric": {
-      "latest": "1.5.0",
+      "latest": "1.6.0",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "修复酷狗音乐播放歌曲与所点歌曲不一致"
+      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
     },
     "26.2-neoforge": {
-      "latest": "1.5.0",
+      "latest": "1.6.0",
       "critical": false,
       "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "修复酷狗音乐播放歌曲与所点歌曲不一致"
+      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
     }
   },
   "fallback": {
-    "latest": "1.5.0",
+    "latest": "1.6.0",
     "critical": false,
     "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-    "notes": "修复酷狗音乐播放歌曲与所点歌曲不一致"
+    "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
   }
 }
