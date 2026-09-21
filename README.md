@@ -9,7 +9,7 @@
 - 两个源，按顺序尝试：
   1. `https://raw.githubusercontent.com/zihe114514/MuoniumPlayer-updates/main/update.json`
   2. `https://cdn.jsdelivr.net/gh/zihe114514/MuoniumPlayer-updates@main/update.json`
-- 本地缓存 6 小时，期间不再联网。
+- 本地缓存 30 分钟，期间不再联网。
 - 清单里的 `latest` 高于本地版本时，在**主菜单**弹一次提示；用户可以「之后再说」、「跳过此版本」或「不再检查更新」。
 - 只发一个匿名 GET，不上传任何用户数据；`config/muonium/update_notice.json` 里把 `enabled` 改成 `false` 就彻底不联网。
 
@@ -21,13 +21,13 @@
   "channels": {
     // 键是 "<Minecraft 版本>-<加载器>"，加载器取 fabric / forge / neoforge
     "1.21.11-neoforge": {
-      "latest": "1.5.0",              // 必填。比本地版本新才弹提示
+      "latest": "1.6.0",              // 必填。比本地版本新才弹提示
       "critical": false,              // true 时不给「跳过此版本」
       "page": "https://github.com/...", // 下载页。只允许 https 且域名在白名单里
       "notes": "这一版改了什么"        // 可空
     }
   },
-  "fallback": { "latest": "1.5.0" }   // 找不到对应 channel 时用这个
+  "fallback": { "latest": "1.6.0" }   // 找不到对应 channel 时用这个
 }
 ```
 
@@ -41,5 +41,5 @@
 
 1. 把新 jar 发到 Releases（或任何白名单域名上的页面）。
 2. 改这里对应 channel 的 `latest` / `page` / `notes`。
-3. 完事。老客户端最多 6 小时后就会开始提示。
+3. 完事。老客户端最多 30 分钟后就会开始提示。
 
