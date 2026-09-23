@@ -3,61 +3,97 @@
   "_comment": "MuoniumPlayer 清单：更新 + 公告二合一。客户端每 30 分钟最多拉一次；latest 高于本地版本时在主菜单弹一次更新提示，announcements 里有未读条目时在主菜单弹一次公告窗（关掉即整批记为已读）。",
   "channels": {
     "1.20.1-fabric": {
-      "latest": "1.6.0",
+      "latest": "1.6.1",
       "critical": false,
-      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
+      "page": "https://melodifymc.cc.cd/download",
+      "notes": "1.6.1：公告中心上线（游戏内三个入口）、导入歌单做成全渠道能力、YouTube 可登录并导入歌单与电台、汽水扫码登录经外部取码工具回归、lx 自定义源两类加载与播放失败已修"
     },
     "1.20.1-forge": {
-      "latest": "1.6.0",
+      "latest": "1.6.1",
       "critical": false,
-      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
+      "page": "https://melodifymc.cc.cd/download",
+      "notes": "1.6.1：公告中心上线（游戏内三个入口）、导入歌单做成全渠道能力、YouTube 可登录并导入歌单与电台、汽水扫码登录经外部取码工具回归、lx 自定义源两类加载与播放失败已修"
     },
     "1.21.1-fabric": {
-      "latest": "1.6.0",
+      "latest": "1.6.1",
       "critical": false,
-      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
+      "page": "https://melodifymc.cc.cd/download",
+      "notes": "1.6.1：公告中心上线（游戏内三个入口）、导入歌单做成全渠道能力、YouTube 可登录并导入歌单与电台、汽水扫码登录经外部取码工具回归、lx 自定义源两类加载与播放失败已修"
     },
     "1.21.1-neoforge": {
-      "latest": "1.6.0",
+      "latest": "1.6.1",
       "critical": false,
-      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
+      "page": "https://melodifymc.cc.cd/download",
+      "notes": "1.6.1：公告中心上线（游戏内三个入口）、导入歌单做成全渠道能力、YouTube 可登录并导入歌单与电台、汽水扫码登录经外部取码工具回归、lx 自定义源两类加载与播放失败已修"
     },
     "1.21.11-fabric": {
-      "latest": "1.6.0",
+      "latest": "1.6.1",
       "critical": false,
-      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
+      "page": "https://melodifymc.cc.cd/download",
+      "notes": "1.6.1：公告中心上线（游戏内三个入口）、导入歌单做成全渠道能力、YouTube 可登录并导入歌单与电台、汽水扫码登录经外部取码工具回归、lx 自定义源两类加载与播放失败已修"
     },
     "1.21.11-neoforge": {
-      "latest": "1.6.0",
+      "latest": "1.6.1",
       "critical": false,
-      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
+      "page": "https://melodifymc.cc.cd/download",
+      "notes": "1.6.1：公告中心上线（游戏内三个入口）、导入歌单做成全渠道能力、YouTube 可登录并导入歌单与电台、汽水扫码登录经外部取码工具回归、lx 自定义源两类加载与播放失败已修"
     },
     "26.2-fabric": {
-      "latest": "1.6.0",
+      "latest": "1.6.1",
       "critical": false,
-      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
+      "page": "https://melodifymc.cc.cd/download",
+      "notes": "1.6.1：公告中心上线（游戏内三个入口）、导入歌单做成全渠道能力、YouTube 可登录并导入歌单与电台、汽水扫码登录经外部取码工具回归、lx 自定义源两类加载与播放失败已修"
     },
     "26.2-neoforge": {
-      "latest": "1.6.0",
+      "latest": "1.6.1",
       "critical": false,
-      "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-      "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
+      "page": "https://melodifymc.cc.cd/download",
+      "notes": "1.6.1：公告中心上线（游戏内三个入口）、导入歌单做成全渠道能力、YouTube 可登录并导入歌单与电台、汽水扫码登录经外部取码工具回归、lx 自定义源两类加载与播放失败已修"
     }
   },
   "fallback": {
-    "latest": "1.6.0",
+    "latest": "1.6.1",
     "critical": false,
-    "page": "https://github.com/zihe114514/MuoniumPlayer-updates",
-    "notes": "1.6.0：一起听房间无缝交接、酷狗概念版身份、汽水 Cookie 登录与导入歌单、哔哩哔哩登录、跨平台自动换源、第四套 HUD 编辑器与全屏歌词搜索"
+    "page": "https://melodifymc.cc.cd/download",
+    "notes": "1.6.1：公告中心上线（游戏内三个入口）、导入歌单做成全渠道能力、YouTube 可登录并导入歌单与电台、汽水扫码登录经外部取码工具回归、lx 自定义源两类加载与播放失败已修"
   },
   "announcements": [
+    {
+      "id": "2026-09-23-161-release",
+      "date": "2026-09-23",
+      "kind": "feature",
+      "title": "1.6.1：公告中心、全渠道导入歌单、YouTube 登录",
+      "body": "这一版四件事：公告中心（也就是你现在看的这个窗口）上线；导入歌单不再只有汽水一个渠道，粘贴链接自己认平台；YouTube 可以粘浏览器 Cookie 登录，还能导歌单、导电台；汽水扫码登录回来了。另外 lx 自定义源「加载失败 / 一直播放失败」的两类根因修掉了。\n公告有三个入口：主菜单的实体按钮、播放器侧栏的图标（带未读红点）、HUD 设置里的一行。有没读过的公告时每次启动弹一次，一关就算整批读过，不会追着弹；也没有「关闭公告」这个开关 —— 要紧的事只说一次，长了的写在这里、细节放官网。",
+      "link": "https://melodifymc.cc.cd/docs.html#changelog",
+      "linkText": "看完整更新日志"
+    },
+    {
+      "id": "2026-09-23-youtube-byte-window",
+      "date": "2026-09-23",
+      "kind": "warning",
+      "title": "YouTube 能不能播完整，取决于你的出口 IP",
+      "body": "实测结论，不是猜测：googlevideo 对匿名客户端给出的音频链接按「出口 IP × 视频」只放行 1 MiB 字节窗口，重新解析一条新链接也不会续；不带 Range 的裸 GET 直接 403。我们测的时候用的是机房代理，那一窗口就是 1 MiB，不够一整首。\n所以 YouTube 曲目现在的表现是：解析得开、可能取不满一整首，取不满时这首直接播不了（半成品会删掉），不会播半首就断。住宅网络与登录态下会不会放宽还没验证过 —— 登录入口在音乐来源页 YouTube 那张卡上。\n网易云 / QQ / 酷狗 / 汽水 / 哔哩哔哩不受这条影响。",
+      "link": "https://melodifymc.cc.cd/docs.html#yt-login",
+      "linkText": "YouTube 登录与限制"
+    },
+    {
+      "id": "2026-09-23-qishui-bridge-031",
+      "date": "2026-09-23",
+      "kind": "warning",
+      "title": "汽水扫码要换 0.3.1 的外部取码工具",
+      "body": "汽水的二维码之前整块下线过：登录要用的 a_bogus 只能由官方安全组件在浏览器渲染进程里签，直连拿不到可用状态。现在改成由 mod 拉起外部取码工具出码，游戏里扫码即可。\n第一版有两个毛病这轮一起修了：每次取码都要重等 88 MB 自解压；弹风控验证窗口时工具阻塞在等人操作，却被我们自己的新鲜度判据读成「工具没了」，判失败后反手把它 kill 掉 —— 看着像工具崩了，其实是我们自己判死的。现在工具常驻复用（一次扫码结束只转空闲，下次直接要新码）、全程刷心跳，空闲 5 分钟自己退。\n要用 0.3.1 及以后的工具：配 0.3.0 会退化成「复用等 30 秒就重启」，能用但慢。工具不在时页面不摆二维码，只写明放哪个路径，Cookie 导入那条路照旧在。",
+      "link": "https://melodifymc.cc.cd/docs.html#qishui-login",
+      "linkText": "汽水登录怎么配"
+    },
+    {
+      "id": "2026-09-23-lx-two-failures",
+      "date": "2026-09-23",
+      "kind": "fix",
+      "title": "lx 自定义源：两类失败，两个独立根因",
+      "body": "「一直播放失败」的那类：脚本返回的中继直链是 http，服务器用 301 升级到 https，而 Java 不跨协议自动跟随、下载层过去把任何 3xx 一律当失败。现在幂等的 GET/HEAD 会手动跟跳（上限 8 跳），POST 的语义不变。\n「加载即崩」的那类：新脚本爱用的 「Promise.any」 在引擎 Rhino 1.7.15 里根本不存在。现在装载脚本前先补一层现代 JS 垫片，只在缺失时才定义、不覆盖原生、失败也不连累本来能跑的脚本。\n还有一件事要说清楚：用到 BigInt 字面量的脚本仍然不行，那是引擎级硬缺口，得换引擎；已知的六音那类源就在这一档。另外失败现在会讲人话了 —— 日志里能看到是哪一次请求、哪一行脚本，不再只有一个「Fail」。",
+      "link": "https://melodifymc.cc.cd/docs.html#custom-source",
+      "linkText": "自定义音源怎么装"
+    },
     {
       "id": "2026-09-21-160-room-automix",
       "date": "2026-09-21",
