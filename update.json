@@ -49,6 +49,18 @@
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+    },
+    "26.3-fabric": {
+      "latest": "1.6.1",
+      "critical": false,
+      "page": "https://melodifymc.cc.cd/download",
+      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+    },
+    "26.3-neoforge": {
+      "latest": "1.6.1",
+      "critical": false,
+      "page": "https://melodifymc.cc.cd/download",
+      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
     }
   },
   "fallback": {
