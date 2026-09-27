@@ -3,73 +3,94 @@
   "_comment": "MuoniumPlayer 清单：更新 + 公告二合一。客户端每 30 分钟最多拉一次；latest 高于本地版本时在主菜单弹一次更新提示，announcements 里有未读条目时在主菜单弹一次公告窗（关掉即整批记为已读）。",
   "channels": {
     "1.20.1-fabric": {
-      "latest": "1.6.1",
+      "latest": "1.7.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
     },
     "1.20.1-forge": {
-      "latest": "1.6.1",
+      "latest": "1.7.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
     },
     "1.21.1-fabric": {
-      "latest": "1.6.1",
+      "latest": "1.7.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
     },
     "1.21.1-neoforge": {
-      "latest": "1.6.1",
+      "latest": "1.7.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
     },
     "1.21.11-fabric": {
-      "latest": "1.6.1",
+      "latest": "1.7.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
     },
     "1.21.11-neoforge": {
-      "latest": "1.6.1",
+      "latest": "1.7.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
     },
     "26.2-fabric": {
-      "latest": "1.6.1",
+      "latest": "1.7.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
     },
     "26.2-neoforge": {
-      "latest": "1.6.1",
+      "latest": "1.7.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
     },
     "26.3-fabric": {
-      "latest": "1.6.1",
+      "latest": "1.7.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
     },
     "26.3-neoforge": {
-      "latest": "1.6.1",
+      "latest": "1.7.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
     }
   },
   "fallback": {
-    "latest": "1.6.1",
+    "latest": "1.7.0",
     "critical": false,
     "page": "https://melodifymc.cc.cd/download",
-    "notes": "1.6.1：公告中心上线、全渠道导入歌单、YouTube 登录与歌单导入、汽水扫码回归、修复 lx 自定义源两类失败"
+    "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
   },
   "announcements": [
+    {
+      "id": "2026-09-27-170-release",
+      "date": "2026-09-27",
+      "kind": "feature",
+      "title": "1.7.0：26.3、系统播放器镜像、FM 与本地歌单",
+      "body": "这版更新：\n- 新增 Minecraft 26.3（Fabric / NeoForge），五个版本共十个构建。\n- 系统播放器镜像：外部播放器在播什么，游戏里的歌词、封面、灵动岛就跟着读它，暂停与上下首能反手发回去。\n- HUD 设置从 12 页收成 7 页，条目一条没少；装了 ModernUI 还能整个交给它渲染。\n- 私人 FM 改成整页 hero 卡，新增「刚才推荐过」。\n- 侧栏新增「Mu本地歌单」，「下一首播放」的角标与插入位置重做。\n修复：换源后待播列表看起来被清空、单曲循环假报「没有下一首」。"
+    },
+    {
+      "id": "2026-09-27-smtc-mirror",
+      "date": "2026-09-27",
+      "kind": "feature",
+      "title": "系统播放器镜像：游戏跟着外部播放器走",
+      "body": "HUD 设置 →「界面与主题」→「播放态来源」选「系统播放器镜像」。之后本模组不出声，全屏歌词页、桌面歌词、灵动岛、封面与背景取色读的都是系统里正在播的那一首；歌词与封面按曲名歌手回本模组曲库匹配，匹配上就和平常听歌一样（含逐字）。\n暂停 / 上下首 / 拖进度会真的作用到外部播放器，它不接受的命令如实提示，不做假进度。音量走 Windows 音量合成器里外部播放器那一格，绝不退回去动主音量。\n需要 Windows 10/11 与一个支持系统媒体控制的播放器；镜像开着时本模组队列不会起播。"
+    },
+    {
+      "id": "2026-09-27-hud-seven-pages",
+      "date": "2026-09-27",
+      "kind": "info",
+      "title": "HUD 设置收成 7 页，也可以交给 ModernUI 渲染",
+      "body": "分类现在是：歌词样式 / 面板与卡片 / 灵动岛 / 无缝切换 / 界面与主题 / 信息栏与封面 / 缓存与公告。原来「当前歌词」「普通歌词」「桌面面板」三页其实是一件事，现在合一；89 个条目一条没增没减。\n「界面与主题」里多一行「设置界面由谁渲染」：内置 / OneConfig / ModernUI 三档。选 ModernUI 需要已装它且该 Minecraft 版本有对应构件 —— 目前 1.20.1 / 1.21.1 / 1.21.11 有面板，26.2 / 26.3 仍走内置。当前值不可用时，原因直接写在那一行上。"
+    },
     {
       "id": "2026-09-23-161-release",
       "date": "2026-09-23",
