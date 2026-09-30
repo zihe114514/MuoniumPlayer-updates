@@ -3,73 +3,109 @@
   "_comment": "MuoniumPlayer 清单：更新 + 公告二合一。客户端每 30 分钟最多拉一次；latest 高于本地版本时在主菜单弹一次更新提示，announcements 里有未读条目时在主菜单弹一次公告窗（关掉即整批记为已读）。",
   "channels": {
     "1.20.1-fabric": {
-      "latest": "1.7.0",
+      "latest": "1.8.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
     },
     "1.20.1-forge": {
-      "latest": "1.7.0",
+      "latest": "1.8.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
     },
     "1.21.1-fabric": {
-      "latest": "1.7.0",
+      "latest": "1.8.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
     },
     "1.21.1-neoforge": {
-      "latest": "1.7.0",
+      "latest": "1.8.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
     },
     "1.21.11-fabric": {
-      "latest": "1.7.0",
+      "latest": "1.8.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
     },
     "1.21.11-neoforge": {
-      "latest": "1.7.0",
+      "latest": "1.8.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
     },
     "26.2-fabric": {
-      "latest": "1.7.0",
+      "latest": "1.8.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
     },
     "26.2-neoforge": {
-      "latest": "1.7.0",
+      "latest": "1.8.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
     },
     "26.3-fabric": {
-      "latest": "1.7.0",
+      "latest": "1.8.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
     },
     "26.3-neoforge": {
-      "latest": "1.7.0",
+      "latest": "1.8.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
     }
   },
   "fallback": {
-    "latest": "1.7.0",
+    "latest": "1.8.0",
     "critical": false,
     "page": "https://melodifymc.cc.cd/download",
-    "notes": "1.7.0：新增 Minecraft 26.3、系统播放器镜像、HUD 设置接 ModernUI 并收成 7 页、私人 FM 重排、本地歌单与下一首播放"
+    "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
   },
   "announcements": [
+    {
+      "id": "2026-09-30-180-release",
+      "date": "2026-09-30",
+      "kind": "feature",
+      "title": "1.8.0：进阶交接、整张灌歌单、实时玻璃",
+      "body": "Automix 多了默认关闭的进阶模式：先把整首歌扫一遍，出场点与进场点配成一对打分选点，分数不够就不硬切。\n一起听可以把整张歌单一次排进房间，队列分插队 / 点歌 / 歌单三档优先级。\n灵动岛八款样式全部接上实时背景；模组列表与启动器那一格现在显示我们自己的图标。\n更新提示照常最多每 30 分钟一次，下载走官网或 MC 百科。",
+      "link": "https://melodifymc.cc.cd/docs.html#changelog",
+      "linkText": "看更新日志"
+    },
+    {
+      "id": "2026-09-30-automix-advanced",
+      "date": "2026-09-30",
+      "kind": "feature",
+      "title": "Automix 进阶模式：值不值得叠，交给分数说了算",
+      "body": "开关在 HUD 设置 →「无缝切换」→「进阶模式」，默认关。打开后模组会先扫一遍整首歌的电平与起声（后台低优先级、不挡播放，结果留在本地缓存），再把出场点与进场点配成一对候选逐项打分，分不够就不硬切。\n队列里多了一颗「一键排列」，整条接缝一次排好；拖进度条不再作废正在进行的交叉淡化。",
+      "link": "https://melodifymc.cc.cd/docs.html#automix-advanced",
+      "linkText": "进阶模式怎么用"
+    },
+    {
+      "id": "2026-09-30-room-playlist",
+      "date": "2026-09-30",
+      "kind": "feature",
+      "title": "一起听：整张歌单排进房间，队列分三档",
+      "body": "歌单页多了一颗「播放歌单」，一次把整张单排进去，不打断正在播的那一首。队列优先级是：房主与管理员的插队 > 别人一首首点的歌 > 整张灌进来的歌单待播。\n另外修掉一处：在房间里点任意一行播放不再插到别人前面，只有按「下一首播放」才带插队位。",
+      "link": "https://melodifymc.cc.cd/docs.html#room-playlist",
+      "linkText": "房间队列怎么排"
+    },
+    {
+      "id": "2026-09-30-live-glass",
+      "date": "2026-09-30",
+      "kind": "info",
+      "title": "灵动岛那层玻璃，现在真能透进背景了",
+      "body": "此前八款岛形里只有「液态玻璃」那一款在采样，默认的经典胶囊画的是按时间摆动的假渐变。这一版把铺背景挪到样式分派之前，八款全部接上实时背景。\n新增「实时背景采集」开关，默认关 —— 开着它每帧要重做一次全屏高斯，弱机不必吃这笔。",
+      "link": "https://melodifymc.cc.cd/docs.html#glass",
+      "linkText": "玻璃与采集开关"
+    },
     {
       "id": "2026-09-27-170-release",
       "date": "2026-09-27",
