@@ -3,73 +3,109 @@
   "_comment": "MuoniumPlayer 清单：更新 + 公告二合一。客户端每 30 分钟最多拉一次；latest 高于本地版本时在主菜单弹一次更新提示，announcements 里有未读条目时在主菜单弹一次公告窗（关掉即整批记为已读）。",
   "channels": {
     "1.20.1-fabric": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
     },
     "1.20.1-forge": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
     },
     "1.21.1-fabric": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
     },
     "1.21.1-neoforge": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
     },
     "1.21.11-fabric": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
     },
     "1.21.11-neoforge": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
     },
     "26.2-fabric": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
     },
     "26.2-neoforge": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
     },
     "26.3-fabric": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
     },
     "26.3-neoforge": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
     }
   },
   "fallback": {
-    "latest": "1.8.0",
+    "latest": "1.9.0",
     "critical": false,
     "page": "https://melodifymc.cc.cd/download",
-    "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+    "notes": "1.9.0：整面液态透镜真玻璃、系统播放器镜像 (SMTC)、HUD 7 大分类与 ModernUI、一起听分层代解析与跨平台救援、Automix 进阶模式"
   },
   "announcements": [
+    {
+      "id": "2026-10-02-190-release",
+      "date": "2026-10-02",
+      "kind": "feature",
+      "title": "1.9.0：液态透镜、系统播放器镜像、一起听分层代解析",
+      "body": "真玻璃重做为整面液态透镜（squircle 物理折射），修复 1.21.11 发黑与界面闪烁。\n新增 Windows SMTC 系统播放器镜像联动，外部播放器放歌游戏内歌词灵动岛双向同步。\nHUD 设置收成 7 大类并可接 ModernUI；Automix 进阶模式支持 AutoCue 打分与 Flow 智能排列。\n一起听 v2 支持分层代解析与跨平台救援，房间音频预拉取与预分析，老玩家默认开启贡献。",
+      "link": "https://melodifymc.cc.cd/docs.html#changelog",
+      "linkText": "看更新日志"
+    },
+    {
+      "id": "2026-10-02-liquid-lens",
+      "date": "2026-10-02",
+      "kind": "feature",
+      "title": "整面液态透镜真玻璃：从平面磨砂到物理折射",
+      "body": "真玻璃材质重做为整面液态透镜（GlassLiquidSurface），按超椭圆距离场对背景画面进行真实的非线性物理折射，边缘光泽并入透镜本体。\n彻底解决 1.21.11 下世界管线帧缓冲继承导致的玻璃发黑问题，加入 16ms 帧间闸杜绝 1.20.1/1.21.1 闪烁与拉丝。\n材质自动迁移，实时背景采集默认开启。",
+      "link": "https://melodifymc.cc.cd/docs.html#glass",
+      "linkText": "液态透镜详解"
+    },
+    {
+      "id": "2026-10-02-smtc-mirror",
+      "date": "2026-10-02",
+      "kind": "feature",
+      "title": "系统播放器镜像：游戏跟着外部播放器走",
+      "body": "HUD 设置 →「界面与主题」→「播放态来源」切为「系统播放器镜像」。\n外部播放器（网易云、QQ 音乐、Spotify 等）放歌时，Mod 内部不出声，游戏内的全屏歌词、桌面歌词、灵动岛、封面与背景取色全部跟随外部曲目（支持回库匹配逐字歌词）。\n键盘多媒体键、耳机线控与游戏内暂停/切歌/拖进度反向作用回外部播放器，精准调节外部播放器音量。",
+      "link": "https://melodifymc.cc.cd/docs.html#smtc-mirror",
+      "linkText": "系统播放器镜像说明"
+    },
+    {
+      "id": "2026-10-02-listen-together-v2",
+      "date": "2026-10-02",
+      "kind": "feature",
+      "title": "一起听 v2：分层代解析与跨平台救援契约",
+      "body": "服务器房间升级分层代解析：L0 原链 → L1 VIP 会员贡献 → L2 自定义脚本 → L3 跨平台检索替换。\n答不上立刻弃权不干等，老玩家安全自动开启贡献；房间音频前瞻窗口预拉取与预分析，换歌时钟静默窗自适应交叠时长；个人暂停不影响全房。",
+      "link": "https://melodifymc.cc.cd/docs.html#listen-together",
+      "linkText": "一起听 v2 详解"
+    },
     {
       "id": "2026-09-30-180-release",
       "date": "2026-09-30",
