@@ -3,16 +3,22 @@
 这个仓库给 MuoniumPlayer 客户端 mod 提供**公开可读的托管文件**。
 代码仓库是私有的，而客户端必须匿名读到它们，所以清单单独放在这里。
 
-两类文件：
+三类文件：
 
 | 文件 | 干什么 |
 | --- | --- |
 | `update.json` | 更新 + 公告二合一的清单，见下文 |
 | `folia-onnx-android-arm64.zip` | 安卓端 Automix 的 ONNX Runtime 1.29.0 运行包（`FoliaModelManager.ANDROID_ZIP_*` 钉住大小与 sha256，客户端按 sha256 校验后才安装）。换了新包要保持**同名**上传并同步更新模组里的两个常量与版本号 |
+| `skija-companion/*.zip` | 非 Windows 平台的 Skija 渲染原生库伴生包（六个平台：linux / macos / android × x64 / arm64）。客户端按本机平台**自动下载**并校验字节数与 sha256（`SkijaCompanionDownload.PACKS` 钉住），失败时才回落到手动安装。换包保持**同名替换**，并同步模组常量（约定见模组仓库 `docs/实现约定-渲染原生库自动下载.md`） |
 
 > 运行包之所以和模型分开托管：folia-models 那边是模型仓库的固定格式（`.onnx`），
 > 而这个 zip 属于「应用侧运行时」，跟更新清单一起维护更顺手。客户端的三路下载链
-> （ghfast / raw / jsdelivr）对本仓库两种文件都生效。
+> （ghfast / raw / jsdelivr）对本仓库三种文件都生效。
+>
+> `skija-companion/` 的六个包由模组仓库的 `tools/publish-skija-companion.ps1` 发布：
+> 它先对拍模组里的常量与 `dist/skija-companion` 产物，再拷贝到本仓库、逐字节复验，
+> 最后提交推送并核实远端 HEAD。**别手工上传**——漏一次常量同步，客户端会按 sha256 拒绝收包。
+> （2026-10-06 首次托管，Skija 0.143.17。）
 
 一份 `update.json` 同时管两件事：
 
