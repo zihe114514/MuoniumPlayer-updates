@@ -1,7 +1,18 @@
 # MuoniumPlayer 清单（更新 + 公告二合一）
 
-这个仓库只有一个作用：给 MuoniumPlayer 客户端 mod 提供一份**公开可读的清单**。
-代码仓库是私有的，而客户端必须匿名读到它，所以清单单独放在这里。
+这个仓库给 MuoniumPlayer 客户端 mod 提供**公开可读的托管文件**。
+代码仓库是私有的，而客户端必须匿名读到它们，所以清单单独放在这里。
+
+两类文件：
+
+| 文件 | 干什么 |
+| --- | --- |
+| `update.json` | 更新 + 公告二合一的清单，见下文 |
+| `folia-onnx-android-arm64.zip` | 安卓端 Automix 的 ONNX Runtime 1.29.0 运行包（`FoliaModelManager.ANDROID_ZIP_*` 钉住大小与 sha256，客户端按 sha256 校验后才安装）。换了新包要保持**同名**上传并同步更新模组里的两个常量与版本号 |
+
+> 运行包之所以和模型分开托管：folia-models 那边是模型仓库的固定格式（`.onnx`），
+> 而这个 zip 属于「应用侧运行时」，跟更新清单一起维护更顺手。客户端的三路下载链
+> （ghfast / raw / jsdelivr）对本仓库两种文件都生效。
 
 一份 `update.json` 同时管两件事：
 
