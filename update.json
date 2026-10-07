@@ -3,73 +3,82 @@
   "_comment": "MuoniumPlayer 清单：更新 + 公告二合一。客户端每 30 分钟最多拉一次；latest 高于本地版本时在主菜单弹一次更新提示，announcements 里有未读条目时在主菜单弹一次公告窗（关掉即整批记为已读）。",
   "channels": {
     "1.20.1-fabric": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
     },
     "1.20.1-forge": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
     },
     "1.21.1-fabric": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
     },
     "1.21.1-neoforge": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
     },
     "1.21.11-fabric": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
     },
     "1.21.11-neoforge": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
     },
     "26.2-fabric": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
     },
     "26.2-neoforge": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
     },
     "26.3-fabric": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
     },
     "26.3-neoforge": {
-      "latest": "1.8.0",
+      "latest": "1.9.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
     }
   },
   "fallback": {
-    "latest": "1.8.0",
+    "latest": "1.9.0",
     "critical": false,
     "page": "https://melodifymc.cc.cd/download",
-    "notes": "1.8.0：Automix 进阶模式、一起听整张灌歌单与队列三档、灵动岛接上实时背景、模组列表与启动器有了自己的图标"
+    "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
   },
   "announcements": [
+    {
+      "id": "2026-10-05-190-release",
+      "date": "2026-10-05",
+      "kind": "feature",
+      "title": "1.9.0：实时频谱、真玻璃质感、歌词流体背景、ViPER 音效与安卓支持",
+      "body": "这版更新：\n- 实时音乐频谱：游戏底边、播放器控制栏与全屏歌词页跟着音乐跳动，样式与颜色可调。\n- 玻璃质感全面重做：面板像真的玻璃，能透出并弯折身后的画面；列表、弹窗与卡片质感统一。\n- 全屏歌词背景重做：流体背景跟着音乐流动，三种风格可选，颜色自动取自封面。\n- ViPER 音效：兼容 ViPER 预设文件（四代直接导入），24 组参数可视化调参，即改即存即生效；本项目是非商业 mod，仅限个人使用。\n- Linux / macOS / 安卓支持：缺伴生包时游戏自动下载装好，不用重启、不用手动解压；安卓端拖尾残影已修。\n- 一起听：房间里播放不了的歌能请其他成员帮忙，换个平台找回来接着播；「贡献解析」默认开启，账号不出你的电脑。\n- 切歌更跟手：画面立刻跟上、新歌无缝接上不断音；灵动岛通知按轻重排队；换源的歌标明实际来源。\n- 大歌单滚动与转场更顺滑；1.21.11 玻璃发黑、1.20.1/1.21.1 玻璃拉丝已修。",
+      "link": "https://melodifymc.cc.cd/docs.html#changelog",
+      "linkText": "看更新日志"
+    },
     {
       "id": "2026-09-30-180-release",
       "date": "2026-09-30",
