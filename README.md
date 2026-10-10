@@ -10,6 +10,7 @@ mod 本体的代码仓库是私有的，而游戏客户端需要在游戏里匿�
 | `update.json` | 更新与公告清单。游戏主菜单的「有新版本」提示和公告中心，读的都是它 |
 | `skija-companion/*.zip` | 全平台（Windows / Linux / macOS / 安卓）的图形原生库伴生包。缺包时客户端自动下载对应平台的一份，不用手动解压 |
 | `folia-onnx-android-arm64.zip` | 安卓端 Automix 的 ONNX Runtime 运行包，客户端按需下载 |
+| `qishui-companion/*.zip` | 汽水音乐签名后端伴生包（Windows）。模组在检测到本机后端缺失时自动下载并启动；签名走汽水官方客户端自带的安全组件，包内不含任何官方二进制的修改 |
 
 ## 对玩家意味着什么
 
