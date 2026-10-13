@@ -3,73 +3,82 @@
   "_comment": "MuoniumPlayer 清单：更新 + 公告二合一。客户端每 30 分钟最多拉一次；latest 高于本地版本时在主菜单弹一次更新提示，announcements 里有未读条目时在主菜单弹一次公告窗（关掉即整批记为已读）。",
   "channels": {
     "1.20.1-fabric": {
-      "latest": "1.9.0",
+      "latest": "1.9.2",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+      "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
     },
     "1.20.1-forge": {
-      "latest": "1.9.0",
+      "latest": "1.9.2",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+      "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
     },
     "1.21.1-fabric": {
-      "latest": "1.9.0",
+      "latest": "1.9.2",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+      "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
     },
     "1.21.1-neoforge": {
-      "latest": "1.9.0",
+      "latest": "1.9.2",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+      "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
     },
     "1.21.11-fabric": {
-      "latest": "1.9.0",
+      "latest": "1.9.2",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+      "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
     },
     "1.21.11-neoforge": {
-      "latest": "1.9.0",
+      "latest": "1.9.2",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+      "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
     },
     "26.2-fabric": {
-      "latest": "1.9.0",
+      "latest": "1.9.2",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+      "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
     },
     "26.2-neoforge": {
-      "latest": "1.9.0",
+      "latest": "1.9.2",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+      "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
     },
     "26.3-fabric": {
-      "latest": "1.9.0",
+      "latest": "1.9.2",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+      "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
     },
     "26.3-neoforge": {
-      "latest": "1.9.0",
+      "latest": "1.9.2",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+      "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
     }
   },
   "fallback": {
-    "latest": "1.9.0",
+    "latest": "1.9.2",
     "critical": false,
     "page": "https://melodifymc.cc.cd/download",
-    "notes": "1.9.0：实时频谱、真玻璃质感、全屏歌词流体背景、ViPER 音效、Linux/macOS/安卓支持与切歌更跟手"
+    "notes": "1.9.2：汽水音乐完整接入、Spotify 音源，以及一批 FM 与浮层的老问题修复"
   },
   "announcements": [
+    {
+      "id": "2026-10-13-192-release",
+      "date": "2026-10-13",
+      "kind": "feature",
+      "title": "1.9.2：汽水音乐完整接入、Spotify 音源与包体再瘦一圈",
+      "body": "这版更新：\n- 汽水音乐完整接入：新增一个随游戏起停的本机签名后端，进游戏自动下载装好，不用重启；账号歌单、红心收藏、云歌单建删改、每日推荐、播放上报全部可用。Cookie 在游戏与后端之间双向同步，还能存多个账号随时切换（至多 8 个，头像按账号隔离，切换先过真接口校验）。音质标签只报「所选 → 实得」，只有试听的歌会明确标出来。后端只在 Windows 分发，其他平台界面会如实说明。\n- 汽水发现流接入私人 FM：推荐 / 心情 / 生活场景 / 风格流派 / 语言地区按汽水真实体系平铺，边听边上报无限续播，不喜欢的歌扔垃圾桶就不再推；主页推荐歌单从 8 张提到 150 张。\n- Spotify 音源：自备 Client ID 浏览器授权登录后，搜歌、公开歌单、自己的歌单与喜欢的歌都能看；点播自动跨平台换到能播的版本（Spotify 官方接口没有音频出口，这一路提供的是曲库与元数据）。\n- 包又小了一点：zstd-jni 原生库改为登录网易云时按需下载，历史死重清掉，单包约 12~15 MB。\n- 老问题修复：FM 点正在播的封面不再进度归零；FM 起播即换大卡片不再空白；弹窗浮层打开时不再误拖底下的进度条 / 音量 / 歌词 seek；FM 底栏那颗错位的「换一首」删除；二级浮层接力板不再溢出画布；悬浮说明一律显示在按钮上方不再被裁。\n- 另补 1.9.1 的几件：按钮悬浮说明、侧栏刷新按平台分发、待播列表接入一起听、混响音效、缺 FFmpeg 一键装好（Windows）、LX 源支持网址导入；Linux / macOS / 安卓补装图形库后模组自动重启游戏生效。",
+      "link": "https://melodifymc.cc.cd/docs.html#changelog",
+      "linkText": "看更新日志"
+    },
     {
       "id": "2026-10-05-190-release",
       "date": "2026-10-05",
