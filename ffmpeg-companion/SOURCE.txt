@@ -1,0 +1,33 @@
+ffmpeg-companion —— 模组自托管的 ffmpeg 安装包（Windows x64）
+=============================================================
+
+## 这个包是什么
+
+包内只有**一个文件**：`ffmpeg.exe`。
+
+来源：Gyan Doshi 的官方 Windows 构建，版本串 `ffmpeg version 9.0-essentials_build-www.gyan.dev`，
+即 https://www.gyan.dev/ffmpeg/builds/ 上的 `ffmpeg-release-essentials.zip`。
+**二进制未做任何修改**，只是把 ffplay.exe / ffprobe.exe 拿掉了——模组全都只用 ffmpeg 本体
+（动态封面抽帧、B 站音频转 WAV、Automix 分析窗口、AAC 转码），仓库里没有任何 ffprobe / ffplay
+的调用点，带上它们只会让包从 37 MB 变成 100 MB 出头。
+
+## 许可证
+
+GPL v3。该构建的配置里带 `--enable-gpl --enable-version3`，并启用了 libx264 / libx265 这类 GPL 组件
+（`ffmpeg -L` 自己报的就是 GNU General Public License version 3）。
+
+- 许可证全文：<https://www.gnu.org/licenses/gpl-3.0.txt>（上游构建里同附 `LICENSE`）
+- 对应源码：<https://ffmpeg.org/download.html> 与 <https://www.gyan.dev/ffmpeg/builds/> 都提供
+  与该构建对应的完整源码
+- 上游版权与法务说明：<https://ffmpeg.org/legal.html>
+
+## 校验
+
+```
+文件    ffmpeg-windows-x64-9.0.zip
+字节数  38714831
+sha256  260dd7080a1f5767e4796374cbcff0fbe7cfeb92becefd3c2a6068f0111ccef6
+```
+
+客户端把这三个值钉死在 `muonium-common` 的 `FfmpegPackageDownload.PACK` 里，长度或哈希对不上
+直接判失败、绝不解压。**换包时两处必须一起改**：本目录里的 zip、以及那个 PACK 常量。
