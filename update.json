@@ -3,73 +3,82 @@
   "_comment": "MuoniumPlayer 清单：更新 + 公告二合一。客户端每 30 分钟最多拉一次；latest 高于本地版本时在主菜单弹一次更新提示，announcements 里有未读条目时在主菜单弹一次公告窗（关掉即整批记为已读）。",
   "channels": {
     "1.20.1-fabric": {
-      "latest": "2.2.0",
+      "latest": "2.3.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+      "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
     },
     "1.20.1-forge": {
-      "latest": "2.2.0",
+      "latest": "2.3.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+      "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
     },
     "1.21.1-fabric": {
-      "latest": "2.2.0",
+      "latest": "2.3.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+      "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
     },
     "1.21.1-neoforge": {
-      "latest": "2.2.0",
+      "latest": "2.3.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+      "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
     },
     "1.21.11-fabric": {
-      "latest": "2.2.0",
+      "latest": "2.3.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+      "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
     },
     "1.21.11-neoforge": {
-      "latest": "2.2.0",
+      "latest": "2.3.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+      "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
     },
     "26.2-fabric": {
-      "latest": "2.2.0",
+      "latest": "2.3.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+      "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
     },
     "26.2-neoforge": {
-      "latest": "2.2.0",
+      "latest": "2.3.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+      "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
     },
     "26.3-fabric": {
-      "latest": "2.2.0",
+      "latest": "2.3.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+      "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
     },
     "26.3-neoforge": {
-      "latest": "2.2.0",
+      "latest": "2.3.0",
       "critical": false,
       "page": "https://melodifymc.cc.cd/download",
-      "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+      "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
     }
   },
   "fallback": {
-    "latest": "2.2.0",
+    "latest": "2.3.0",
     "critical": false,
     "page": "https://melodifymc.cc.cd/download",
-    "notes": "2.2.0：新增 Apple Music 音源（完整播放/自动换源/30 秒试听），电台·播客，光影下也能看 3D 歌词，放歌不再串台，界面玻璃质感与桌面歌词取色，及一批修复（一起听听不到别人放歌、26.2 中文输入、3D 歌词闪烁等）"
+    "notes": "2.3.0：场景声学（水下/回声/实测混响带方向）、3D 歌词翻译行动效与辉光、Spotify 设备控制互通、Apple Music 纯 Java 引擎（去外部工具依赖）、Gnetum 共存兼容，及电台/酷歌/HUD 一批修复"
   },
   "announcements": [
+    {
+      "id": "2026-10-31-230-release",
+      "date": "2026-10-31",
+      "kind": "feature",
+      "title": "2.3.0：场景声学、翻译行动效、Spotify 设备控制、Apple 纯 Java 引擎",
+      "body": "2.2.0 之后的功能版本，五个 Minecraft 版本、全部加载器同步齐备：\n- 场景声学：水下音效、空间有回声，播放输出随游戏环境实时变化；混响实测你所在空间的大小、材质与墙面方位，回声带方向；音效调音台新增场景声学子页。\n- 3D 歌词翻译行动效：翻译副行逐字点亮，扫光、光晕、微飞径迹多种特效独立开关；辉光效果曝光与扩散可调；英文歌主行与翻译行均匀对齐。\n- Spotify 设备控制：手机、电脑、游戏互通，新增设备面板互相接管播放；适配 Spotify 接口新规。\n- Apple Music 纯 Java 引擎：不再依赖外部工具，装完 Mod 就能用，ffmpeg 成为可选加速组件；账号入口并入账号管理面板。\n- Gnetum 共存兼容：与 HUD 缓存优化 Mod 同装不再闪烁，首次进世界自动适配。\n- 修复一批：电台直播流解码、卡片错位、分页漏歌；酷狗概念版会员每日权益自动领取、歌单解析补全；HUD 设置面板缩放角标、文案全面重写；Apple 若干网络与兼容修复。",
+      "link": "https://melodifymc.cc.cd/changelog.html",
+      "linkText": "看更新日志"
+    },
     {
       "id": "2026-10-29-220-release",
       "date": "2026-10-29",
