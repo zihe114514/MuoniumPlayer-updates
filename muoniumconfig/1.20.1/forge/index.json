@@ -4,8 +4,8 @@
   "lane": "1.20.1/forge",
   "version": "1.7.0",
   "file": "muoniumconfig-1.7.0.jar",
-  "bytes": 28272821,
-  "sha256": "efafd02a9770ec82aa90a965b9daa289db0b59f9ddea644933fad32a20d1ba33",
+  "bytes": 28269554,
+  "sha256": "931614b239a2e0b2a1f5bdf33f27ea489d1fd470dedd5c7206234c8e68283e44",
   "minLoader": "",
   "notes": "MuoniumConfig 1.7.0（1.20.1/forge）"
 }

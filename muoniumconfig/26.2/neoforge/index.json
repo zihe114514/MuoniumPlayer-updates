@@ -4,8 +4,8 @@
   "lane": "26.2/neoforge",
   "version": "1.7.0",
   "file": "muoniumconfig-1.7.0.jar",
-  "bytes": 28377729,
-  "sha256": "e18d2b78d65012d80a31a0c56cb5c853c84907caf33d7a232789c6299aff803a",
+  "bytes": 28374462,
+  "sha256": "a3092c9e37becee085284ef813ecd2849d721efe00b50e5c62e6aaf5194f588c",
   "minLoader": "",
   "notes": "MuoniumConfig 1.7.0（26.2/neoforge）"
 }
