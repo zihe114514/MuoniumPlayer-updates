@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "id": "muoniumconfigv1",
+  "lane": "1.21.10/neoforge",
+  "version": "1.7.0",
+  "file": "muoniumconfig-1.7.0.jar",
+  "bytes": 28249244,
+  "sha256": "2ae8ce86946ec69e1b26fa390fa56f41f09df88065a14242c14156959ff249d4",
+  "minLoader": "",
+  "notes": "MuoniumConfig 1.7.0（1.21.10/neoforge）"
+}
