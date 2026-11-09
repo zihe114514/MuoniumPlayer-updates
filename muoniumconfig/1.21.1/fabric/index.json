@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "id": "muoniumconfigv1",
+  "lane": "1.21.1/fabric",
+  "version": "1.7.0",
+  "file": "muoniumconfig-1.7.0.jar",
+  "bytes": 26094145,
+  "sha256": "98a76192c55b4c05e855cb2467e61a47012445e2d895f51408189e5dafcc5d23",
+  "minLoader": "",
+  "notes": "MuoniumConfig 1.7.0（1.21.1/fabric）"
+}
