@@ -2,10 +2,10 @@
   "schema": 1,
   "id": "muoniumconfigv1",
   "lane": "26.3/neoforge",
-  "version": "1.7.0",
-  "file": "muoniumconfig-1.7.0.jar",
-  "bytes": 28384919,
-  "sha256": "8f5aeb5374410706f631de7bb4cc8c0b89aefefcadd89084ece26bb40ddfb13a",
+  "version": "1.8.0",
+  "file": "muoniumconfig-1.8.0.jar",
+  "bytes": 28384897,
+  "sha256": "6511f0c4b6793af65fbb577d3bae57c4c1651fca37cae0e9ba07b2709aca14d8",
   "minLoader": "",
-  "notes": "MuoniumConfig 1.7.0（26.3/neoforge）"
+  "notes": "MuoniumConfig 1.8.0（26.3/neoforge）"
 }
