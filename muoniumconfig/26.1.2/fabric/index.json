@@ -4,8 +4,8 @@
   "lane": "26.1.2/fabric",
   "version": "1.7.0",
   "file": "muoniumconfig-1.7.0.jar",
-  "bytes": 26122369,
-  "sha256": "b4b481f660820a9f1189b56249c956e47b7082c6c1e72f6de09f9245ac3db1fa",
+  "bytes": 26122777,
+  "sha256": "483ca7ec6d97cf338cfdccab9018a58020a9b90a8843e4f8adda1a150b63c9cc",
   "minLoader": "",
   "notes": "MuoniumConfig 1.7.0（26.1.2/fabric）"
 }
