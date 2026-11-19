@@ -2,10 +2,10 @@
   "schema": 1,
   "id": "muoniumconfigv1",
   "lane": "26.3/fabric",
-  "version": "1.8.0",
-  "file": "muoniumconfig-1.8.0.jar",
-  "bytes": 26127283,
-  "sha256": "482dee8aef0886f42c3e0a7781971cd0e034942dbdb42ad973f14b661a74dd66",
+  "version": "1.9.0",
+  "file": "muoniumconfig-1.9.0.jar",
+  "bytes": 26131788,
+  "sha256": "9f2ac81da4f74a3e455154f1116dd1b3e5300a2b95012ba8af8999f90e6abac9",
   "minLoader": "",
-  "notes": "MuoniumConfig 1.8.0（26.3/fabric）"
+  "notes": "MuoniumConfig 1.9.0（26.3/fabric）"
 }
