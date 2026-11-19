@@ -1,5 +1,5 @@
 {
-  "schema": 2,
+  "schema": 3,
   "_comment": "MuoniumPlayer 清单：更新 + 公告二合一。客户端每 30 分钟最多拉一次；latest 高于本地版本时在主菜单弹一次更新提示，announcements 里有未读条目时在主菜单弹一次公告窗（关掉即整批记为已读）。",
   "channels": {
     "1.20.1-fabric": {
@@ -327,6 +327,57 @@
       "kind": "warning",
       "title": "更新检查不再有「不再检查更新」",
       "body": "更新检查开关已移除：检查仅发匿名 GET，不带用户标识，也不会自动下载或替换 jar；关闭它会导致收不到新版本与安全提醒。\n每个版本可「先不更新」3 次，用尽后提示窗只留「前往下载」。连续 3 次启动连不上服务器才会提示，届时提供「重试检查」。"
+    }
+  ],
+  "contentRevision": 1,
+  "sponsorships": [
+    {
+      "id": "muoniumplayer-voluntary-support",
+      "date": "2026-11-19",
+      "title": "自愿支持 MuoniumPlayer",
+      "badge": "公益项目",
+      "body": "MuoniumPlayer 是免费的纯公益客户端 MOD。赞助完全自愿，不解锁功能或特权。微信赞赏码收款方为心事抱抱；也可以通过爱发电支持项目开发与维护。",
+      "image": "https://cdn.jsdelivr.net/gh/zihe114514/MuoniumPlayer-updates@main/images/wechat-sponsor-20261119.png",
+      "imageAlt": "心事抱抱的微信赞赏码，请使用微信扫码",
+      "imageFit": "contain",
+      "actions": [
+        {
+          "text": "前往爱发电",
+          "url": "https://afdian.com/a/xinshibaobao"
+        },
+        {
+          "text": "微信赞助说明",
+          "url": "https://melodifymc.cc.cd/sponsor.html"
+        }
+      ]
+    }
+  ],
+  "communities": [
+    {
+      "id": "qq-community-884394167",
+      "date": "2026-11-19",
+      "title": "Melodify&Muonium 的联动小屋 2 群",
+      "badge": "QQ 交流群",
+      "body": "群号：884394167。欢迎加入 Melodify 与 MuoniumPlayer 的联动交流群。",
+      "actions": [
+        {
+          "text": "加入二群",
+          "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=k3DZKN3%2BHpqKyQHMnC9ZmuaeD99%2FFvm%2BVEgRB9gVLI%2FWscdEFpvctyrvOcSdnm9m&busi_data=eyJncm91cENvZGUiOiI4ODQzOTQxNjciLCJ0b2tlbiI6IlhnY2t2ZVFXRDF3UEdxSTl6MlBYZnM5Tjc0bXF3ZjFJVGhXRUFWMmNVM09zZ0d0VzZkdVZnNnc0aVdLaFZDeEMiLCJ1aW4iOiIyNDkxNDQyMzI0In0%3D&data=RlJ4RkpsyWkAjiptwNyiQL9sQoUuVRK1t1G4hZlI0AtRsr24kFZTxhvhNDIVxXeurGZvkBCnHODlwLOnbRrRqQ&svctype=4&tempid=h5_group_info"
+        }
+      ]
+    },
+    {
+      "id": "qq-community-276352246",
+      "date": "2026-11-19",
+      "title": "Melodify&MuoniumPlayer 1 群",
+      "badge": "QQ 交流群",
+      "body": "群号：276352246。欢迎加入 Melodify 与 MuoniumPlayer 玩家交流群。",
+      "actions": [
+        {
+          "text": "加入一群",
+          "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=Vy0zQWXJsPQCW07X1z6Vin1439N9%2FxV0dTVy9InuJ6995hK8iRN8regaHKouHyBN&busi_data=eyJncm91cENvZGUiOiIyNzYzNTIyNDYiLCJ0b2tlbiI6Iit4ZUE3QWg4Mkt4MVlnSngzU3E2MHpGa3UrcXNBTnk2L29jMlc4cmVZYmg2NEh3T1R6ZnBTNHlCV3lBM2VqZVUiLCJ1aW4iOiIyNDkxNDQyMzI0In0%3D&data=RibFMNnBBq_C3SRxsIvRkdXq6MXoRgx2VzOwM6JDtgVJV2WZWcthCT48uo3eQsyQEMyHoT77fT3SZFdXgx-1Tw&svctype=4&tempid=h5_group_info"
+        }
+      ]
     }
   ]
 }
