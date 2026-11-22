@@ -4,98 +4,98 @@
   "channels": {
     "1.20.1-fabric": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.20.1-forge": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.1-fabric": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.1-neoforge": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.10-fabric": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.10-neoforge": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.11-fabric": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.11-neoforge": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.1.2-fabric": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.1.2-neoforge": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.2-fabric": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.2-neoforge": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.3-fabric": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.3-neoforge": {
       "latest": "2.6.1",
-      "critical": false,
+      "critical": true,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
@@ -347,7 +347,7 @@
       "body": "更新检查开关已移除：检查仅发匿名 GET，不带用户标识，也不会自动下载或替换 jar；关闭它会导致收不到新版本与安全提醒。\n每个版本可「先不更新」3 次，用尽后提示窗只留「前往下载」。连续 3 次启动连不上服务器才会提示，届时提供「重试检查」。"
     }
   ],
-  "contentRevision": 2,
+  "contentRevision": 3,
   "sponsorships": [
     {
       "id": "muoniumplayer-voluntary-support",
