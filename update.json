@@ -4,98 +4,98 @@
   "channels": {
     "1.20.1-fabric": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.20.1-forge": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.1-fabric": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.1-neoforge": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.10-fabric": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.10-neoforge": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.11-fabric": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "1.21.11-neoforge": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.1.2-fabric": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.1.2-neoforge": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.2-fabric": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.2-neoforge": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.3-fabric": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
     },
     "26.3-neoforge": {
       "latest": "2.6.1",
-      "critical": true,
+      "critical": false,
       "page": "https://melodifymc.cc.cd/download",
       "notes": "2.6.1：新增波点音乐，补齐 QQ 音乐推荐、私人 FM、电台与歌单操作；完善 Apple Music、YouTube Music、Spotify 的账号、推荐、歌单和播放链路，Spotify 支持歌单写回；网易云增加已购专辑与音乐云盘；新增响度均衡、自然快混与场景声学射线声场，并修复切歌缓存、音频线程、音乐胶囊、世界歌词和旧版公告滚轮问题。",
       "fallback": "2.5.0"
@@ -103,11 +103,18 @@
   },
   "fallback": {
     "latest": "2.4.0",
-    "critical": true,
+    "critical": false,
     "page": "https://melodifymc.cc.cd/download",
     "notes": "2.4.0：真 3D 空间音效（HRTF + 世界声源，耳机听出方位与距离）、场景声学精细化（采样 48kHz、听感三修）、「通透模式」果冻特效、窗口失焦自动压低音乐、3D 歌词 HDR bloom，及一批修复"
   },
   "announcements": [
+    {
+      "id": "2026-11-23-261-update-paused",
+      "date": "2026-11-23",
+      "kind": "warning",
+      "title": "2.6.1 更新提醒：已取消强制更新，请暂缓升级",
+      "body": "2.6.1 目前发现问题，现已取消强制更新。\n尚未升级的玩家请暂缓更新，继续使用当前可用版本；已经升级的玩家如遇异常，请暂时使用此前可用的版本。\n后续处理情况会通过公告另行说明。"
+    },
     {
       "id": "2026-11-22-261-release",
       "date": "2026-11-22",
@@ -347,7 +354,7 @@
       "body": "更新检查开关已移除：检查仅发匿名 GET，不带用户标识，也不会自动下载或替换 jar；关闭它会导致收不到新版本与安全提醒。\n每个版本可「先不更新」3 次，用尽后提示窗只留「前往下载」。连续 3 次启动连不上服务器才会提示，届时提供「重试检查」。"
     }
   ],
-  "contentRevision": 4,
+  "contentRevision": 5,
   "sponsorships": [
     {
       "id": "muoniumplayer-voluntary-support",
